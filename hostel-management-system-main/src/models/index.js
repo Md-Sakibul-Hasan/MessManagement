@@ -1,0 +1,6 @@
+module.exports.Owner = require('./owner.model')
+module.exports.Manager = require('./manager.model')
+module.exports.Room = require('./room.model')
+module.exports.Student = require('./student.model')
+module.exports.User = require('./user.model')
+module.exports.Meal = require('./meal.model')
